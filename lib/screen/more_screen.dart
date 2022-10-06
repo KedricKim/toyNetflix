@@ -17,7 +17,7 @@ class MoreScreen extends StatelessWidget {
               ),
             ),
             Container(
-              padding: EdgeInsets.only(top: 15),
+              padding: EdgeInsets.only(top: 15), 
               child: Text(
                 'Rojje',
                 style: TextStyle(
