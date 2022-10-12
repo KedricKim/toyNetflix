@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701587111401",
+    "project_id": "toynetflix-32291",
+    "storage_bucket": "toynetflix-32291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701587111401:android:712f1484b645a7dab95f78",
+        "android_client_info": {
+          "package_name": "com.example.rojje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701587111401-hopi0h80019ccggf971op7jdvdeuiolm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS70uxhC9V8TvxRZwW0ekM_szhLLgJeZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701587111401-hopi0h80019ccggf971op7jdvdeuiolm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

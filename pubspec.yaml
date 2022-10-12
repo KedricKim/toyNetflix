@@ -34,6 +34,8 @@ dependencies:
   carousel_slider: ^4.1.1
   flutter_linkify: ^5.0.2
   url_launcher_with_chrome: ^5.7.11
+  firebase_core: ^0.7.0
+  cloud_firestore: ^0.16.0
 
 
   # The following adds the Cupertino Icons font to your application.
